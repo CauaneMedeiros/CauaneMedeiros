@@ -16,6 +16,6 @@
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </div>
  
-  ![ Animação de cobra ](https://github.com/cauanemedeiros/cauanemedeiros/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
